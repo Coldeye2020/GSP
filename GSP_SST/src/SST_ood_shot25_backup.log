@@ -1,0 +1,1045 @@
+nohup: ignoring input
+====================================
+====================================
+[INFO] Running GSP on Graph-SST with GIN
+OOD flag: 1
+====================================
+====================================
+====================================
+Generating new fewshot set!
+====================================
+[INFO] Finetuning GSP...0 time
+[Seed 0, Epoch: 0]: gsp_train finished, clf_acc: 0.620, clf_roc: 0.000
+[Seed 0, Epoch: 0]: gsp_valid finished, clf_acc: 0.574, clf_roc: 0.000
+[Seed 0, Epoch: 0]: gsp_test  finished, clf_acc: 0.613, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 0]: Best Epoch: 0, Best Val Pred ACC/ROC: 0.574, Best Test Pred ACC/ROC: 0.613
+====================================
+[Seed 0, Epoch: 1]: gsp_train finished, clf_acc: 0.700, clf_roc: 0.000
+[Seed 0, Epoch: 1]: gsp_valid finished, clf_acc: 0.730, clf_roc: 0.000
+[Seed 0, Epoch: 1]: gsp_test  finished, clf_acc: 0.682, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 1]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.730, Best Test Pred ACC/ROC: 0.682
+====================================
+[Seed 0, Epoch: 2]: gsp_train finished, clf_acc: 0.780, clf_roc: 0.000
+[Seed 0, Epoch: 2]: gsp_valid finished, clf_acc: 0.784, clf_roc: 0.000
+[Seed 0, Epoch: 2]: gsp_test  finished, clf_acc: 0.735, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 2]: Best Epoch: 2, Best Val Pred ACC/ROC: 0.784, Best Test Pred ACC/ROC: 0.735
+====================================
+[Seed 0, Epoch: 3]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 0, Epoch: 3]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 0, Epoch: 3]: gsp_test  finished, clf_acc: 0.728, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 3]: Best Epoch: 2, Best Val Pred ACC/ROC: 0.784, Best Test Pred ACC/ROC: 0.735
+====================================
+[Seed 0, Epoch: 4]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 0, Epoch: 4]: gsp_valid finished, clf_acc: 0.781, clf_roc: 0.000
+[Seed 0, Epoch: 4]: gsp_test  finished, clf_acc: 0.728, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 4]: Best Epoch: 2, Best Val Pred ACC/ROC: 0.784, Best Test Pred ACC/ROC: 0.735
+====================================
+[Seed 0, Epoch: 5]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 0, Epoch: 5]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 0, Epoch: 5]: gsp_test  finished, clf_acc: 0.732, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 5]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.789, Best Test Pred ACC/ROC: 0.732
+====================================
+[Seed 0, Epoch: 6]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 0, Epoch: 6]: gsp_valid finished, clf_acc: 0.799, clf_roc: 0.000
+[Seed 0, Epoch: 6]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 6]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 0, Epoch: 7]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 7]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 0, Epoch: 7]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 7]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 0, Epoch: 8]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 0, Epoch: 8]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 0, Epoch: 8]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 8]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 0, Epoch: 9]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 9]: gsp_valid finished, clf_acc: 0.799, clf_roc: 0.000
+[Seed 0, Epoch: 9]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 9]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.739
+Time Consumption: 44.8986s
+====================================
+[Seed 0, Epoch: 10]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 0, Epoch: 10]: gsp_valid finished, clf_acc: 0.801, clf_roc: 0.000
+[Seed 0, Epoch: 10]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 10]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 11]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 0, Epoch: 11]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 0, Epoch: 11]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 11]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 12]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 12]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 0, Epoch: 12]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 12]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 13]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 13]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 0, Epoch: 13]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 13]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 14]: gsp_train finished, clf_acc: 0.760, clf_roc: 0.000
+[Seed 0, Epoch: 14]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 0, Epoch: 14]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 14]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 15]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 15]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 15]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 15]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 16]: gsp_train finished, clf_acc: 0.800, clf_roc: 0.000
+[Seed 0, Epoch: 16]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 16]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 16]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 17]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 17]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 0, Epoch: 17]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 17]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 18]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 18]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 0, Epoch: 18]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 18]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 19]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 0, Epoch: 19]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 0, Epoch: 19]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 19]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+Time Consumption: 42.4742s
+====================================
+[Seed 0, Epoch: 20]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 20]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 0, Epoch: 20]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 20]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 21]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 21]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 0, Epoch: 21]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 21]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 22]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 0, Epoch: 22]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 22]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 22]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 23]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 23]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 23]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 23]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 24]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 24]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 0, Epoch: 24]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 24]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 25]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 0, Epoch: 25]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 0, Epoch: 25]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 25]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 26]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 26]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 0, Epoch: 26]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 26]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 27]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 27]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 27]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 27]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 28]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 28]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 0, Epoch: 28]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 28]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 29]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 29]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 0, Epoch: 29]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 29]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+Time Consumption: 45.1940s
+====================================
+[Seed 0, Epoch: 30]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 30]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 30]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 30]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 31]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 31]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 0, Epoch: 31]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 31]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 32]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 32]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 0, Epoch: 32]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 32]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 33]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 0, Epoch: 33]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 0, Epoch: 33]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 33]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 34]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 34]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 0, Epoch: 34]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 34]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 35]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 0, Epoch: 35]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 0, Epoch: 35]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 35]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 36]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 36]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 0, Epoch: 36]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 36]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 37]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 37]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 0, Epoch: 37]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 37]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 38]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 0, Epoch: 38]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 0, Epoch: 38]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 38]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 0, Epoch: 39]: gsp_train finished, clf_acc: 0.940, clf_roc: 0.000
+[Seed 0, Epoch: 39]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 0, Epoch: 39]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 0, Finetune Epoch: 39]: Best Epoch: 10, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.746
+Time Consumption: 45.9461s
+====================================
+====================================
+[INFO] Finetuning GSP...1 time
+[Seed 1, Epoch: 0]: gsp_train finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 1, Epoch: 0]: gsp_valid finished, clf_acc: 0.578, clf_roc: 0.000
+[Seed 1, Epoch: 0]: gsp_test  finished, clf_acc: 0.609, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 0]: Best Epoch: 0, Best Val Pred ACC/ROC: 0.578, Best Test Pred ACC/ROC: 0.609
+====================================
+[Seed 1, Epoch: 1]: gsp_train finished, clf_acc: 0.640, clf_roc: 0.000
+[Seed 1, Epoch: 1]: gsp_valid finished, clf_acc: 0.779, clf_roc: 0.000
+[Seed 1, Epoch: 1]: gsp_test  finished, clf_acc: 0.722, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 1]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.779, Best Test Pred ACC/ROC: 0.722
+====================================
+[Seed 1, Epoch: 2]: gsp_train finished, clf_acc: 0.760, clf_roc: 0.000
+[Seed 1, Epoch: 2]: gsp_valid finished, clf_acc: 0.777, clf_roc: 0.000
+[Seed 1, Epoch: 2]: gsp_test  finished, clf_acc: 0.724, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 2]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.779, Best Test Pred ACC/ROC: 0.722
+====================================
+[Seed 1, Epoch: 3]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 3]: gsp_valid finished, clf_acc: 0.775, clf_roc: 0.000
+[Seed 1, Epoch: 3]: gsp_test  finished, clf_acc: 0.722, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 3]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.779, Best Test Pred ACC/ROC: 0.722
+====================================
+[Seed 1, Epoch: 4]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 1, Epoch: 4]: gsp_valid finished, clf_acc: 0.778, clf_roc: 0.000
+[Seed 1, Epoch: 4]: gsp_test  finished, clf_acc: 0.727, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 4]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.779, Best Test Pred ACC/ROC: 0.722
+====================================
+[Seed 1, Epoch: 5]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 1, Epoch: 5]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 5]: gsp_test  finished, clf_acc: 0.736, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 5]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.795, Best Test Pred ACC/ROC: 0.736
+====================================
+[Seed 1, Epoch: 6]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 6]: gsp_valid finished, clf_acc: 0.801, clf_roc: 0.000
+[Seed 1, Epoch: 6]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 6]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.741
+====================================
+[Seed 1, Epoch: 7]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 1, Epoch: 7]: gsp_valid finished, clf_acc: 0.801, clf_roc: 0.000
+[Seed 1, Epoch: 7]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 7]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.741
+====================================
+[Seed 1, Epoch: 8]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 8]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 1, Epoch: 8]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 8]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.741
+====================================
+[Seed 1, Epoch: 9]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 1, Epoch: 9]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 1, Epoch: 9]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 9]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.741
+Time Consumption: 45.1984s
+====================================
+[Seed 1, Epoch: 10]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 10]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 1, Epoch: 10]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 10]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.741
+====================================
+[Seed 1, Epoch: 11]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 11]: gsp_valid finished, clf_acc: 0.802, clf_roc: 0.000
+[Seed 1, Epoch: 11]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 11]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 12]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 12]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 1, Epoch: 12]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 12]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 13]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 13]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 1, Epoch: 13]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 13]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 14]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 14]: gsp_valid finished, clf_acc: 0.801, clf_roc: 0.000
+[Seed 1, Epoch: 14]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 14]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 15]: gsp_train finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 1, Epoch: 15]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 1, Epoch: 15]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 15]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 16]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 16]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 1, Epoch: 16]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 16]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 17]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 17]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 1, Epoch: 17]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 17]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 18]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 18]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 1, Epoch: 18]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 18]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 19]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 19]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 19]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 19]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+Time Consumption: 45.5845s
+====================================
+[Seed 1, Epoch: 20]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 20]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 1, Epoch: 20]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 20]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 21]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 1, Epoch: 21]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 1, Epoch: 21]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 21]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 22]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 1, Epoch: 22]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 1, Epoch: 22]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 22]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 23]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 23]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 1, Epoch: 23]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 23]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 24]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 24]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 1, Epoch: 24]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 24]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 25]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 25]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 1, Epoch: 25]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 25]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 26]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 1, Epoch: 26]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 1, Epoch: 26]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 26]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 27]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 27]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 1, Epoch: 27]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 27]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 28]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 28]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 28]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 28]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 29]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 1, Epoch: 29]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 29]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 29]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+Time Consumption: 46.6111s
+====================================
+[Seed 1, Epoch: 30]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 1, Epoch: 30]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 1, Epoch: 30]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 30]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 31]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 1, Epoch: 31]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 31]: gsp_test  finished, clf_acc: 0.747, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 31]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 32]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 1, Epoch: 32]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 1, Epoch: 32]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 32]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 33]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 1, Epoch: 33]: gsp_valid finished, clf_acc: 0.781, clf_roc: 0.000
+[Seed 1, Epoch: 33]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 33]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 34]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 34]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 1, Epoch: 34]: gsp_test  finished, clf_acc: 0.747, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 34]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 35]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 1, Epoch: 35]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 1, Epoch: 35]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 35]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 36]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 36]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 1, Epoch: 36]: gsp_test  finished, clf_acc: 0.735, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 36]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 37]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 1, Epoch: 37]: gsp_valid finished, clf_acc: 0.799, clf_roc: 0.000
+[Seed 1, Epoch: 37]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 37]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 38]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 1, Epoch: 38]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 1, Epoch: 38]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 38]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 1, Epoch: 39]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 1, Epoch: 39]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 1, Epoch: 39]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 1, Finetune Epoch: 39]: Best Epoch: 11, Best Val Pred ACC/ROC: 0.802, Best Test Pred ACC/ROC: 0.744
+Time Consumption: 46.1518s
+====================================
+====================================
+[INFO] Finetuning GSP...2 time
+[Seed 2, Epoch: 0]: gsp_train finished, clf_acc: 0.660, clf_roc: 0.000
+[Seed 2, Epoch: 0]: gsp_valid finished, clf_acc: 0.589, clf_roc: 0.000
+[Seed 2, Epoch: 0]: gsp_test  finished, clf_acc: 0.620, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 0]: Best Epoch: 0, Best Val Pred ACC/ROC: 0.589, Best Test Pred ACC/ROC: 0.620
+====================================
+[Seed 2, Epoch: 1]: gsp_train finished, clf_acc: 0.600, clf_roc: 0.000
+[Seed 2, Epoch: 1]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 2, Epoch: 1]: gsp_test  finished, clf_acc: 0.719, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 1]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.783, Best Test Pred ACC/ROC: 0.719
+====================================
+[Seed 2, Epoch: 2]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 2]: gsp_valid finished, clf_acc: 0.774, clf_roc: 0.000
+[Seed 2, Epoch: 2]: gsp_test  finished, clf_acc: 0.722, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 2]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.783, Best Test Pred ACC/ROC: 0.719
+====================================
+[Seed 2, Epoch: 3]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 3]: gsp_valid finished, clf_acc: 0.773, clf_roc: 0.000
+[Seed 2, Epoch: 3]: gsp_test  finished, clf_acc: 0.720, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 3]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.783, Best Test Pred ACC/ROC: 0.719
+====================================
+[Seed 2, Epoch: 4]: gsp_train finished, clf_acc: 0.800, clf_roc: 0.000
+[Seed 2, Epoch: 4]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 2, Epoch: 4]: gsp_test  finished, clf_acc: 0.733, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 4]: Best Epoch: 4, Best Val Pred ACC/ROC: 0.792, Best Test Pred ACC/ROC: 0.733
+====================================
+[Seed 2, Epoch: 5]: gsp_train finished, clf_acc: 0.800, clf_roc: 0.000
+[Seed 2, Epoch: 5]: gsp_valid finished, clf_acc: 0.800, clf_roc: 0.000
+[Seed 2, Epoch: 5]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 5]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 6]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 6]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 2, Epoch: 6]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 6]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 7]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 2, Epoch: 7]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 2, Epoch: 7]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 7]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 8]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 8]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 2, Epoch: 8]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 8]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 9]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 9]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 2, Epoch: 9]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 9]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+Time Consumption: 46.4392s
+====================================
+[Seed 2, Epoch: 10]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 2, Epoch: 10]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 2, Epoch: 10]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 10]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 11]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 11]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 2, Epoch: 11]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 11]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 12]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 12]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 2, Epoch: 12]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 12]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 13]: gsp_train finished, clf_acc: 0.800, clf_roc: 0.000
+[Seed 2, Epoch: 13]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 2, Epoch: 13]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 13]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 14]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 14]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 2, Epoch: 14]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 14]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 15]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 2, Epoch: 15]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 2, Epoch: 15]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 15]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 16]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 16]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 2, Epoch: 16]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 16]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 17]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 17]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 17]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 17]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 18]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 18]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 2, Epoch: 18]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 18]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 19]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 19]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 2, Epoch: 19]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 19]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+Time Consumption: 45.2485s
+====================================
+[Seed 2, Epoch: 20]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 2, Epoch: 20]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 20]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 20]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 21]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 21]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 2, Epoch: 21]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 21]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 22]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 22]: gsp_valid finished, clf_acc: 0.785, clf_roc: 0.000
+[Seed 2, Epoch: 22]: gsp_test  finished, clf_acc: 0.737, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 22]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 23]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 23]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 2, Epoch: 23]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 23]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 24]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 24]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 2, Epoch: 24]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 24]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 25]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 25]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 2, Epoch: 25]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 25]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 26]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 2, Epoch: 26]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 26]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 26]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 27]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 27]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 27]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 27]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 28]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 28]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 2, Epoch: 28]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 28]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 29]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 29]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 29]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 29]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+Time Consumption: 48.2620s
+====================================
+[Seed 2, Epoch: 30]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 30]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 2, Epoch: 30]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 30]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 31]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 31]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 2, Epoch: 31]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 31]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 32]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 2, Epoch: 32]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 2, Epoch: 32]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 32]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 33]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 2, Epoch: 33]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 2, Epoch: 33]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 33]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 34]: gsp_train finished, clf_acc: 0.720, clf_roc: 0.000
+[Seed 2, Epoch: 34]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 2, Epoch: 34]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 34]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 35]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 35]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 2, Epoch: 35]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 35]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 36]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 36]: gsp_valid finished, clf_acc: 0.776, clf_roc: 0.000
+[Seed 2, Epoch: 36]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 36]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 37]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 2, Epoch: 37]: gsp_valid finished, clf_acc: 0.777, clf_roc: 0.000
+[Seed 2, Epoch: 37]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 37]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 38]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 2, Epoch: 38]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 2, Epoch: 38]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 38]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 2, Epoch: 39]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 2, Epoch: 39]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 2, Epoch: 39]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 2, Finetune Epoch: 39]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.800, Best Test Pred ACC/ROC: 0.739
+Time Consumption: 48.0400s
+====================================
+====================================
+[INFO] Finetuning GSP...3 time
+[Seed 3, Epoch: 0]: gsp_train finished, clf_acc: 0.620, clf_roc: 0.000
+[Seed 3, Epoch: 0]: gsp_valid finished, clf_acc: 0.607, clf_roc: 0.000
+[Seed 3, Epoch: 0]: gsp_test  finished, clf_acc: 0.619, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 0]: Best Epoch: 0, Best Val Pred ACC/ROC: 0.607, Best Test Pred ACC/ROC: 0.619
+====================================
+[Seed 3, Epoch: 1]: gsp_train finished, clf_acc: 0.680, clf_roc: 0.000
+[Seed 3, Epoch: 1]: gsp_valid finished, clf_acc: 0.771, clf_roc: 0.000
+[Seed 3, Epoch: 1]: gsp_test  finished, clf_acc: 0.728, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 1]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.771, Best Test Pred ACC/ROC: 0.728
+====================================
+[Seed 3, Epoch: 2]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 3, Epoch: 2]: gsp_valid finished, clf_acc: 0.773, clf_roc: 0.000
+[Seed 3, Epoch: 2]: gsp_test  finished, clf_acc: 0.723, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 2]: Best Epoch: 2, Best Val Pred ACC/ROC: 0.773, Best Test Pred ACC/ROC: 0.723
+====================================
+[Seed 3, Epoch: 3]: gsp_train finished, clf_acc: 0.780, clf_roc: 0.000
+[Seed 3, Epoch: 3]: gsp_valid finished, clf_acc: 0.781, clf_roc: 0.000
+[Seed 3, Epoch: 3]: gsp_test  finished, clf_acc: 0.728, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 3]: Best Epoch: 3, Best Val Pred ACC/ROC: 0.781, Best Test Pred ACC/ROC: 0.728
+====================================
+[Seed 3, Epoch: 4]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 4]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 3, Epoch: 4]: gsp_test  finished, clf_acc: 0.737, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 4]: Best Epoch: 4, Best Val Pred ACC/ROC: 0.792, Best Test Pred ACC/ROC: 0.737
+====================================
+[Seed 3, Epoch: 5]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 5]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 3, Epoch: 5]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 5]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 3, Epoch: 6]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 6]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 3, Epoch: 6]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 6]: Best Epoch: 5, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.744
+====================================
+[Seed 3, Epoch: 7]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 7]: gsp_valid finished, clf_acc: 0.799, clf_roc: 0.000
+[Seed 3, Epoch: 7]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 7]: Best Epoch: 7, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 3, Epoch: 8]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 8]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 3, Epoch: 8]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 8]: Best Epoch: 7, Best Val Pred ACC/ROC: 0.799, Best Test Pred ACC/ROC: 0.746
+====================================
+[Seed 3, Epoch: 9]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 9]: gsp_valid finished, clf_acc: 0.801, clf_roc: 0.000
+[Seed 3, Epoch: 9]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 9]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 45.7254s
+====================================
+[Seed 3, Epoch: 10]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 10]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 3, Epoch: 10]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 10]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 11]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 11]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 3, Epoch: 11]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 11]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 12]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 12]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 12]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 12]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 13]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 13]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 3, Epoch: 13]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 13]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 14]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 3, Epoch: 14]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 3, Epoch: 14]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 14]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 15]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 3, Epoch: 15]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 15]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 15]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 16]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 16]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 3, Epoch: 16]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 16]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 17]: gsp_train finished, clf_acc: 0.940, clf_roc: 0.000
+[Seed 3, Epoch: 17]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 3, Epoch: 17]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 17]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 18]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 18]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 3, Epoch: 18]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 18]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 19]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 19]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 19]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 19]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 47.0809s
+====================================
+[Seed 3, Epoch: 20]: gsp_train finished, clf_acc: 0.760, clf_roc: 0.000
+[Seed 3, Epoch: 20]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 3, Epoch: 20]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 20]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 21]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 3, Epoch: 21]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 3, Epoch: 21]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 21]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 22]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 22]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 3, Epoch: 22]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 22]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 23]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 23]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 3, Epoch: 23]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 23]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 24]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 24]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 3, Epoch: 24]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 24]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 25]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 3, Epoch: 25]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 25]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 25]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 26]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 26]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 26]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 26]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 27]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 3, Epoch: 27]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 27]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 27]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 28]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 28]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 28]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 28]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 29]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 29]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 3, Epoch: 29]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 29]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 46.9382s
+====================================
+[Seed 3, Epoch: 30]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 30]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 3, Epoch: 30]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 30]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 31]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 31]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 3, Epoch: 31]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 31]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 32]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 32]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 3, Epoch: 32]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 32]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 33]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 33]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 3, Epoch: 33]: gsp_test  finished, clf_acc: 0.736, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 33]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 34]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 34]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 3, Epoch: 34]: gsp_test  finished, clf_acc: 0.736, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 34]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 35]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 3, Epoch: 35]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 3, Epoch: 35]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 35]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 36]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 3, Epoch: 36]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 3, Epoch: 36]: gsp_test  finished, clf_acc: 0.740, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 36]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 37]: gsp_train finished, clf_acc: 0.940, clf_roc: 0.000
+[Seed 3, Epoch: 37]: gsp_valid finished, clf_acc: 0.783, clf_roc: 0.000
+[Seed 3, Epoch: 37]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 37]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 38]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 3, Epoch: 38]: gsp_valid finished, clf_acc: 0.784, clf_roc: 0.000
+[Seed 3, Epoch: 38]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 38]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 3, Epoch: 39]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 3, Epoch: 39]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 3, Epoch: 39]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 3, Finetune Epoch: 39]: Best Epoch: 9, Best Val Pred ACC/ROC: 0.801, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 45.9532s
+====================================
+====================================
+[INFO] Finetuning GSP...4 time
+[Seed 4, Epoch: 0]: gsp_train finished, clf_acc: 0.660, clf_roc: 0.000
+[Seed 4, Epoch: 0]: gsp_valid finished, clf_acc: 0.725, clf_roc: 0.000
+[Seed 4, Epoch: 0]: gsp_test  finished, clf_acc: 0.687, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 0]: Best Epoch: 0, Best Val Pred ACC/ROC: 0.725, Best Test Pred ACC/ROC: 0.687
+====================================
+[Seed 4, Epoch: 1]: gsp_train finished, clf_acc: 0.760, clf_roc: 0.000
+[Seed 4, Epoch: 1]: gsp_valid finished, clf_acc: 0.786, clf_roc: 0.000
+[Seed 4, Epoch: 1]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 1]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.786, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 4, Epoch: 2]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 2]: gsp_valid finished, clf_acc: 0.785, clf_roc: 0.000
+[Seed 4, Epoch: 2]: gsp_test  finished, clf_acc: 0.733, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 2]: Best Epoch: 1, Best Val Pred ACC/ROC: 0.786, Best Test Pred ACC/ROC: 0.739
+====================================
+[Seed 4, Epoch: 3]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 3]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 4, Epoch: 3]: gsp_test  finished, clf_acc: 0.733, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 3]: Best Epoch: 3, Best Val Pred ACC/ROC: 0.794, Best Test Pred ACC/ROC: 0.733
+====================================
+[Seed 4, Epoch: 4]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 4]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 4, Epoch: 4]: gsp_test  finished, clf_acc: 0.731, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 4]: Best Epoch: 3, Best Val Pred ACC/ROC: 0.794, Best Test Pred ACC/ROC: 0.733
+====================================
+[Seed 4, Epoch: 5]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 5]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 4, Epoch: 5]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 5]: Best Epoch: 3, Best Val Pred ACC/ROC: 0.794, Best Test Pred ACC/ROC: 0.733
+====================================
+[Seed 4, Epoch: 6]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 6]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 4, Epoch: 6]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 6]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.742
+====================================
+[Seed 4, Epoch: 7]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 4, Epoch: 7]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 4, Epoch: 7]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 7]: Best Epoch: 6, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.742
+====================================
+[Seed 4, Epoch: 8]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 8]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 4, Epoch: 8]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 8]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 9]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 9]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 4, Epoch: 9]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 9]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 46.3078s
+====================================
+[Seed 4, Epoch: 10]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 10]: gsp_valid finished, clf_acc: 0.797, clf_roc: 0.000
+[Seed 4, Epoch: 10]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 10]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 11]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 11]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 4, Epoch: 11]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 11]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 12]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 12]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 4, Epoch: 12]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 12]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 13]: gsp_train finished, clf_acc: 0.820, clf_roc: 0.000
+[Seed 4, Epoch: 13]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 4, Epoch: 13]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 13]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 14]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 14]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 4, Epoch: 14]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 14]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 15]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 15]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 4, Epoch: 15]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 15]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 16]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 16]: gsp_valid finished, clf_acc: 0.791, clf_roc: 0.000
+[Seed 4, Epoch: 16]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 16]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 17]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 17]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 4, Epoch: 17]: gsp_test  finished, clf_acc: 0.742, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 17]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 18]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 18]: gsp_valid finished, clf_acc: 0.789, clf_roc: 0.000
+[Seed 4, Epoch: 18]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 18]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 19]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 19]: gsp_valid finished, clf_acc: 0.790, clf_roc: 0.000
+[Seed 4, Epoch: 19]: gsp_test  finished, clf_acc: 0.739, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 19]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 47.0460s
+====================================
+[Seed 4, Epoch: 20]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 20]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 4, Epoch: 20]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 20]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 21]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 21]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 4, Epoch: 21]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 21]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 22]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 22]: gsp_valid finished, clf_acc: 0.788, clf_roc: 0.000
+[Seed 4, Epoch: 22]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 22]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 23]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 23]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 4, Epoch: 23]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 23]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 24]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 24]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 24]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 24]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 25]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 25]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 4, Epoch: 25]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 25]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 26]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 26]: gsp_valid finished, clf_acc: 0.794, clf_roc: 0.000
+[Seed 4, Epoch: 26]: gsp_test  finished, clf_acc: 0.744, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 26]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 27]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 27]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 27]: gsp_test  finished, clf_acc: 0.743, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 27]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 28]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 28]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 4, Epoch: 28]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 28]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 29]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 29]: gsp_valid finished, clf_acc: 0.798, clf_roc: 0.000
+[Seed 4, Epoch: 29]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 29]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 45.2188s
+====================================
+[Seed 4, Epoch: 30]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 30]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 30]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 30]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 31]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 31]: gsp_valid finished, clf_acc: 0.784, clf_roc: 0.000
+[Seed 4, Epoch: 31]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 31]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 32]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 32]: gsp_valid finished, clf_acc: 0.781, clf_roc: 0.000
+[Seed 4, Epoch: 32]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 32]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 33]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 33]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 4, Epoch: 33]: gsp_test  finished, clf_acc: 0.745, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 33]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 34]: gsp_train finished, clf_acc: 0.860, clf_roc: 0.000
+[Seed 4, Epoch: 34]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 34]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 34]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 35]: gsp_train finished, clf_acc: 0.880, clf_roc: 0.000
+[Seed 4, Epoch: 35]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 35]: gsp_test  finished, clf_acc: 0.738, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 35]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 36]: gsp_train finished, clf_acc: 0.920, clf_roc: 0.000
+[Seed 4, Epoch: 36]: gsp_valid finished, clf_acc: 0.796, clf_roc: 0.000
+[Seed 4, Epoch: 36]: gsp_test  finished, clf_acc: 0.741, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 36]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 37]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 37]: gsp_valid finished, clf_acc: 0.793, clf_roc: 0.000
+[Seed 4, Epoch: 37]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 37]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 38]: gsp_train finished, clf_acc: 0.840, clf_roc: 0.000
+[Seed 4, Epoch: 38]: gsp_valid finished, clf_acc: 0.792, clf_roc: 0.000
+[Seed 4, Epoch: 38]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 38]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+====================================
+[Seed 4, Epoch: 39]: gsp_train finished, clf_acc: 0.900, clf_roc: 0.000
+[Seed 4, Epoch: 39]: gsp_valid finished, clf_acc: 0.795, clf_roc: 0.000
+[Seed 4, Epoch: 39]: gsp_test  finished, clf_acc: 0.746, clf_roc: 0.000
+[Seed 4, Finetune Epoch: 39]: Best Epoch: 8, Best Val Pred ACC/ROC: 0.798, Best Test Pred ACC/ROC: 0.745
+Time Consumption: 46.2890s
+====================================
+{'metric/best_clf_epoch': 10, 'metric/best_clf_valid_loss': 0.6882272472507075, 'metric/best_clf_train': 0.92, 'metric/best_clf_valid': 0.8009377664109122, 'metric/best_clf_test': 0.7456458535234667}
+{'metric/best_clf_epoch': 11, 'metric/best_clf_valid_loss': 0.7142637073993683, 'metric/best_clf_train': 0.86, 'metric/best_clf_valid': 0.8017902813299232, 'metric/best_clf_test': 0.7441229406063963}
+{'metric/best_clf_epoch': 5, 'metric/best_clf_valid_loss': 0.5979254826119071, 'metric/best_clf_train': 0.8, 'metric/best_clf_valid': 0.8000852514919011, 'metric/best_clf_test': 0.7393326872490655}
+{'metric/best_clf_epoch': 9, 'metric/best_clf_valid_loss': 0.6440643872085371, 'metric/best_clf_train': 0.86, 'metric/best_clf_valid': 0.8005115089514067, 'metric/best_clf_test': 0.7450643776824034}
+{'metric/best_clf_epoch': 8, 'metric/best_clf_valid_loss': 0.6522594141332727, 'metric/best_clf_train': 0.86, 'metric/best_clf_valid': 0.7979539641943734, 'metric/best_clf_test': 0.7454797175688772}
+0.7439291153260419 0.0023581813873354094

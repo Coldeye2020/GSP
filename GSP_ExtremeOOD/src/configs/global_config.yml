@@ -1,0 +1,4 @@
+data_dir: ../data
+pretrain_dir: ../pretrain
+finetune_dir: ../finetune
+num_seeds: 10

@@ -1,0 +1,47 @@
+data_config:
+  batch_size: 128
+  pretrain_task_idx: 0
+  finetune_task_idx: 0
+  fs_batch_size: 0
+  num_fs_samples: 0
+
+finetune_config:
+  epochs: 0
+  lr: 1.0e-2
+  wd: 0
+
+
+model_config:
+  atom_encoder: false
+  use_edge_attr: false
+  model_name: GIN
+  hidden_size: 64
+  prompt_hidden_size: 64
+  node_n_layers: 3
+  n_layers: 3
+  dropout_p: 0.3
+  pretrain_lr: 1.0e-3
+  pretrain_epochs: 0
+
+
+shared_config:
+  learn_edge_att: false
+  extractor_dropout_p: 0.5
+
+GSP_config:
+  method_name: 'GSP'
+  pred_loss_coef: 1
+  info_loss_coef: 1
+  epochs: 100
+  lr: 1.0e-3
+  from_scratch: true
+  fix_r: false
+  decay_interval: 10
+  decay_r: 0.1
+  final_r: 0.7
+
+  # from_scratch: true
+  # fix_r: false
+  # decay_interval: 5
+  # decay_r: 0.1
+  # final_r: 0.5
